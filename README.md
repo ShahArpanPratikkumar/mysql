@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
+## Math
+|  |
+| ------- |
+| [0492-construct-the-rectangle](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0492-construct-the-rectangle) |
 <!---LeetCode Topics End-->
