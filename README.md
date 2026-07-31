@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0492-construct-the-rectangle) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
