@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0039-combination-sum) |
+| [0495-teemo-attacking](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0495-teemo-attacking) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
 ## Backtracking
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0181-employees-earning-more-than-their-managers) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
