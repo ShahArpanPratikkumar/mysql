@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0039-combination-sum) |
 | [0495-teemo-attacking](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0500-keyboard-row) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0500-keyboard-row) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
 ## Math
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0501-find-mode-in-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
