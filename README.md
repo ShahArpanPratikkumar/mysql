@@ -83,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0506-relative-ranks) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
