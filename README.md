@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0443-string-compression) |
 ## String
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -96,9 +98,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
