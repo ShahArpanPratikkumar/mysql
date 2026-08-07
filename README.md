@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0520-detect-capital) |
 | [3163-string-compression-iii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3163-string-compression-iii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0039-combination-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0507-perfect-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Database
 |  |
 | ------- |
@@ -115,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
