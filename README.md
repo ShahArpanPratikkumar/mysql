@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0551-student-attendance-record-i) |
 | [3163-string-compression-iii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3163-string-compression-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
