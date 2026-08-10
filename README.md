@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0443-string-compression) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0206-reverse-linked-list) |
