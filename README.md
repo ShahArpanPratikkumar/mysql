@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0039-combination-sum) |
 | [0495-teemo-attacking](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
