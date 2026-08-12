@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0038-count-and-say) |
+| [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0318-maximum-product-of-word-lengths) |
 | [0443-string-compression](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0500-keyboard-row) |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
 | [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0500-keyboard-row) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
@@ -209,5 +212,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0318-maximum-product-of-word-lengths) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
