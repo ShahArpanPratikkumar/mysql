@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0506-relative-ranks) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0506-relative-ranks) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
