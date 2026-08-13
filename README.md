@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0506-relative-ranks) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
@@ -118,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0237-delete-node-in-a-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
