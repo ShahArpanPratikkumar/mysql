@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
+| [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Database
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,11 +216,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
 | ------- |
@@ -225,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -262,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
