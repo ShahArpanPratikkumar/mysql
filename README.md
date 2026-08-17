@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0566-reshape-the-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0566-reshape-the-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0561-array-partition) |
 | [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
