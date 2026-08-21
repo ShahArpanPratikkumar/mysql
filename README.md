@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3731-find-missing-elements) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Database
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0318-maximum-product-of-word-lengths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -298,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0572-subtree-of-another-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
