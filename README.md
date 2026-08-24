@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
+| [1872-stone-game-viii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Breadth-First Search
 |  |
@@ -226,24 +229,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
