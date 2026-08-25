@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0048-rotate-image) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0318-maximum-product-of-word-lengths) |
 | [0495-teemo-attacking](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0496-next-greater-element-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0048-rotate-image) |
 | [0492-construct-the-rectangle](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0507-perfect-number) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0566-reshape-the-matrix) |
 ## String Matching
 |  |
