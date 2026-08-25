@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0572-subtree-of-another-tree) |
+| [3310-remove-methods-from-project](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [3310-remove-methods-from-project](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
 | ------- |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
