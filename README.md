@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0598-range-addition-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0598-range-addition-ii) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
