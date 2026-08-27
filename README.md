@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1927-sum-game](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3163-string-compression-iii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3163-string-compression-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
