@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
