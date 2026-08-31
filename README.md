@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0605-can-place-flowers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2029-stone-game-ix) |
