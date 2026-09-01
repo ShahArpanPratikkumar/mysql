@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3731-find-missing-elements) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [3310-remove-methods-from-project](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0318-maximum-product-of-word-lengths) |
 | [1386-cinema-seat-allocation](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0566-reshape-the-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
 | ------- |
