@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0318-maximum-product-of-word-lengths) |
 | [0443-string-compression](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0443-string-compression) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1563-stone-game-v) |
