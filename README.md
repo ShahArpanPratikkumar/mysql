@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0605-can-place-flowers) |
+| [0835-image-overlap](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0566-reshape-the-matrix) |
+| [0835-image-overlap](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
