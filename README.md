@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1019-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1563-stone-game-v) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0187-repeated-dna-sequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1695-maximum-erasure-value](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ShahArpanPratikkumar/mysql/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ShahArpanPratikkumar/mysql/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
